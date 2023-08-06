@@ -13,9 +13,12 @@
   "dependencies": {
     "@remotion/cli": "4.0.14",
     "@remotion/zod-types": "4.0.14",
+    "@types/styled-components": "^5.1.26",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
+    "react-powerglitch": "^1.0.0",
     "remotion": "4.0.14",
+    "styled-components": "^6.0.6",
     "zod": "^3.21.4"
   },
   "devDependencies": {
